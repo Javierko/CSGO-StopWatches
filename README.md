@@ -1,6 +1,5 @@
 # CS:GO StopWatches
 
-** Two plugins
 * First plugin is very simple to make counting in hud
 * Second one is more harder and it have format
 
